@@ -1,0 +1,9 @@
+.error {
+  margin-top: 5rem;
+  font-size: 4rem;
+  text-align: center;
+  &__img {
+    max-width: 90%;
+    margin-top: 2rem;
+  }
+}
